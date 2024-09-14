@@ -22,9 +22,9 @@ src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=i
 
 <div>
 <h2>Informações Pessoais:</h2>
-<h5>Cursando Informática 2/4.</h5>
+<h5>Cursando Informática 4/4.</h5>
 <h5>Cursando na instituição Satc.</h5>
-<h5>17 Anos.</h5>
+<h5>18 Anos.</h5>
 <h5>Criciúma.</h5>
 </div>
 
